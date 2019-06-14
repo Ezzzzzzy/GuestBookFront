@@ -1,4 +1,4 @@
-# vue-antd-demo
+# GuestBookFront
 
 ## Project setup
 ```
